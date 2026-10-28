@@ -1,0 +1,2 @@
+print("gulbarga")
+print("shahapur")
