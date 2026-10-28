@@ -1,2 +1,0 @@
-print("gulbarga")
-print("shahapur")
