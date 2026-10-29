@@ -1,2 +1,2 @@
-print("vishwa")
+print("viprint("vishwa")
 print("gulbarga")
